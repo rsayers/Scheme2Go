@@ -44,7 +44,8 @@
         // If there's a previously saved program, load it, otherwise leave the default.
       	if(localStorage){
    				if(localStorage.getItem('schemeCode')){
-      		$('#code').val(JSON.parse(localStorage.getItem('schemeCode')));
+      			$('#code').val(JSON.parse(localStorage.getItem('schemeCode')));
+      		}
    			}
 
    			// Eval when we click go
