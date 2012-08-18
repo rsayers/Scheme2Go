@@ -1,10 +1,10 @@
 Scheme2Go
 =========
 
-Author: Rob Sayers
-Email: rsayers@robsayers.com
-Demo Site: http://www.robsayers.com/s2g/
-License: MIT
+Author: Rob Sayers  
+Email: rsayers@robsayers.com  
+Demo Site: http://www.robsayers.com/s2g/  
+License: MIT  
 
 
 About
